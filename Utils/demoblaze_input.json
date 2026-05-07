@@ -1,0 +1,26 @@
+[
+{
+    "userName":"anjithaittan@gmail.com",
+    "passWord":"password@123"
+},
+{
+     "invaliduserName":"dshkbfd",
+    "invalidpassWord":"bdhs"
+},
+{
+    "popupMessage1":"User does not exist",
+    "popupMessage2":"Wrong password"
+},
+{
+    "productname":"Nexus 6",
+    "Monitor":"Apple monitor 24"
+},
+{
+    "myName":"Anjitha",
+    "Country":"India",
+    "City":"Kochi",
+    "Card":"47354328",
+    "Month":"July",
+    "Year":"2946"
+}
+]
